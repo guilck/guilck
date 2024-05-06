@@ -1,16 +1,18 @@
 ### Arriba! 👋
 
-<!--
-**guilck/guilck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Guilherme Augusto Tozeli Marostica
 
-Here are some ideas to get you started:
+ -Estou estudando no Alura[Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ -Estou me desenvolvendo na linguagem JavaScript
+
+ -utilizo esse espaço minha organização e compartilhamento dos meus desenvolvidos
+
+### Você entrar me contato comigo  📪
+
+00001073532380sp@al.educacao.sp.gov.br
+
+
+![](https://tenor.com/pt-BR/view/everton-everton-fan-token-everton-token-nft-everton-nft-gif-22882893)
+
+
